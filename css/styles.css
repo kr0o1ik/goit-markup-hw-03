@@ -26,6 +26,7 @@ ul {
   display: flex;
   align-items: center;
   padding-bottom: 25px;
+  border-bottom: 1px solid #ececec;
 }
 
 .nav-flex {
@@ -268,6 +269,7 @@ address {
   text-decoration: none;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  margin-top: 9mm;
 }
 
 .address-link:hover {
@@ -281,6 +283,7 @@ address {
   text-decoration: none;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  margin-top: 9mm;
 }
 
 .section-hdr {
@@ -290,6 +293,7 @@ address {
 .button-flex {
   display: flex;
   justify-content: center;
+  padding-bottom: 50px;
 }
 
 .list-button-name {
@@ -348,3 +352,8 @@ address {
   letter-spacing: 0.03em;
   margin: 4px 0px 20px 24px;
 }
+
+/*.project-item-border {
+  border: 1px solid #eeeeee;
+  padding: 20px 24px;
+}*/
