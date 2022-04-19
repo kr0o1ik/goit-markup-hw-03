@@ -368,7 +368,6 @@ address {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  margin: 20px 0px 0px 24px;
 }
 
 .projects-type {
@@ -377,5 +376,9 @@ address {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
-  margin: 4px 0px 20px 24px;
+}
+
+.work-border{
+  border: 1px solid #eeeeee;
+  padding: 20px 24px;
 }
